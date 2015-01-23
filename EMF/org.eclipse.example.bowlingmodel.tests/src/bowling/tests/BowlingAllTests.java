@@ -16,6 +16,7 @@ import junit.textui.TestRunner;
 public class BowlingAllTests extends TestSuite {
 
 	/**
+	 * Prueba para git
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
