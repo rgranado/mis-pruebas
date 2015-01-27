@@ -10,7 +10,7 @@ import junit.framework.TestCase;
 import junit.textui.TestRunner;
 
 /**
- * Raticulin
+ * Raticulin2
  * <!-- begin-user-doc -->
  * A test case for the model object '<em><b>Game</b></em>'.
  * <!-- end-user-doc -->
